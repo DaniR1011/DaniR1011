@@ -21,9 +21,7 @@
 <br>
 
 <h3>My Github stats:</h3>
-<div align="left">
-![DaniR1011's Stats](https://github-readme-stats.vercel.app/api?username=DaniR1011&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![DaniR1011's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaniR1011&theme=vue-dark&hide_border=true)
-<br>
+
+![DaniR1011's Stats](https://github-readme-stats.vercel.app/api?username=DaniR1011&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
+![DaniR1011's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaniR1011&theme=vue-dark&hide_border=true)<br/>
 ![DaniR1011's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniR1011&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</div>
