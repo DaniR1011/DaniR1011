@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Daniel Recio 👋</h1>
 <h3 align="center">I´m Data Analyst & Full Stack Developer 💻</h3>
 
-<img align-items="center" src="./images/screen.webp" width="80%" />
+<img align="center" src="./images/screen.webp" width="70%" />
 
 ### 🛠 &nbsp;Tech Stack
 
